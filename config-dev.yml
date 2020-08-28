@@ -1,5 +1,2 @@
-spring:
-  application:
-    name: config-client
 config:
   info: version = 11
