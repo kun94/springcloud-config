@@ -2,4 +2,4 @@ spring:
   application:
     name: config-client1
 config:
-  info: version = 8
+  info: version = 9
